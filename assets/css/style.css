@@ -1,0 +1,90 @@
+#__nuxt >:not(.article-page) * {
+  font-family: "FiraGo_Regular", sans-serif;
+    line-height: 1.3;
+}
+.no-scroll{
+    overflow: hidden; /* Hide scrollbars */
+    max-height: 100vh;
+}
+#__nuxt {
+    height: 100vh;
+}
+
+body.blog .nav-content {
+    width: calc(100% - 14px) !important;
+}
+body.blog .landing-footer {
+    display: none !important;
+}
+
+#__nuxt >:not(.article-page) a{
+    display: flex;
+    text-decoration: none;
+    color: inherit;
+}
+
+html {
+    --font-color-primary: #293961;
+    --font-color-secondary: #00D369;
+    --font-color-error: #EB5757;
+    --font-color-link-buttons: #00D369;
+    --font-color-dark: #666666;
+    --font-color-disabled: #959595;
+    --font-color-light: #7F88A0;
+    --border-color-dark: #C4C4C4;
+    --background-color-light-primary: #CFE9FC;
+    --background-color-secondary-10: #03A052;
+    --background-color-secondary-08: #2BF08D;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1290px;
+    min-width: 1290px;
+    display: flex;
+    flex-grow: 1;
+    margin: auto;
+}
+
+
+
+#__nuxt >:not(.article-page) h1,
+#__nuxt >:not(.article-page) h2,
+#__nuxt >:not(.article-page) h3,
+#__nuxt >:not(.article-page) h4,
+#__nuxt >:not(.article-page) h5 {
+    line-height: 1.3;
+    font-family: FiraGo_SemiBold, sans-serif;
+    display: inline;
+    margin: 0;
+    text-transform: capitalize;
+}
+
+.button-text {
+    margin: 0
+}
+
+@font-face {
+    font-family: FiraGo_Regular;
+    src: url("~/assets/fonts/FiraGO-Regular.woff");
+}
+@font-face {
+    font-family: FiraGo_SemiBold;
+    src: url("~/assets/fonts/FiraGO-SemiBold.woff");
+}
+
+@media (max-width: 1400px) {
+    .container {
+        max-width: unset;
+        min-width: unset;
+        margin: 0 42px;
+    }
+}
+@media (max-width: 600px) {
+    .container {
+        margin: 0 24px;
+    }
+}

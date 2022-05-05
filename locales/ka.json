@@ -1,0 +1,161 @@
+{
+  "navigation": {
+    "home": "მთავარი",
+    "invoicing": "ინვოისები",
+    "tools": "ხელსაწყოები",
+    "pricing": "ფასები",
+    "blog": "ბლოგი",
+    "our_story": "ჩვენი ამბავი",
+    "payroll": "სახელფასო სისტემა",
+    "inv_generator": "ინვოისის გენერატორი",
+    "free_inv_templates": "ინვოისის შაბლონები",
+    "delivery_acceptance": "მიღება-ჩაბარების აქტის შაბლონები",
+    "fin_calculators": "ფინანსური კალკულატორები",
+    "tax_calculators": "საგადასახადო კალკულატორები",
+    "log_in": "შესვლა",
+    "sign_up": "რეგისტრაცია"
+  },
+  "landing": {
+    "email": "ელ.ფოსტა",
+    "sign_facebook": "Facebook-ით ავტორიზაცია",
+    "sign_google": "Google-ით ავტორიზაცია",
+    "create_free_account": "გამოიყენე უფასოდ",
+    "register_input_title": "გამოიყენე სრულიად უფასოდ",
+
+    "infos": {
+      "simple_invoicing": {
+        "Georgia_first": "მარტივი ინვოისირება და ფინანსური ხელსაწყოები",
+        "Georgia_second": "",
+        "Georgia_third": "",
+        "Georgia_secondary": "გამოწერე ინვოისები ერთ წუთში და გაიმარტივე ფინანსების მართვა ჩვენი ხელსაწყოების მეშვეობით"
+      },
+      "create_new": {
+        "main": "ინვოისირების სისტემა",
+        "secondary": "ყველაფერი, რაც ინვოისირებისთვის გჭირდება! თვალი ადევნე შემოსავლებს, მოიწვიე თანაგუნდელები და გახადე ინვოისები ავტომატური",
+        "slot_text": "შექმენი ინვოისი"
+      },
+      "payroll": {
+        "main": "ხელფასების მენეჯმენტი",
+        "secondary": "მართე შენი თანამშრომლების ხელფასები და საშემოსავლო გადასახადი ერთ სივრცეში. ატვირთე RS.GE-ის ინფორმაცია ერთი კლიკით",
+        "slot_text": "გაიგე მეტი"
+      },
+      "calculators": {
+        "main": "საგადასახადო კალკულატორები",
+        "secondary": "გამოთვალე მოგების, საშემოსავლო და დამატებული ღირებულების გადასახადები წამებში",
+        "slot_text": "გაიგე მეტი"
+      }
+    },
+    "global_info_Georgia": "ჩვენ ფინანსების მართვის ახალ გზას ვქმნით",
+    "global_description_first_Georgia": "კერნელის მარტივი ფინანსური ხელსაწყოების მიზანი მცირე მეწარმეებისა და ბუღალტრების ცხოვრების გამარტივებაა",
+    "global_description_second_Georgia": "",
+    "global_description_third_Georgia": "",
+    "benefits": {
+      "invoice": {
+        "title": "სიმარტივე",
+        "description": "შექმენი და გააგზავნე ან გადმოწერე ინვოისები ერთ წუთში და თვალი ადევნე გადახდის სტატუსს"
+      },
+      "automate":{
+        "title": "ავტომატიზაცია",
+        "description": "ნუ გამოწერ განმეორებად ინვოისებს ხელით. მიუთითე განრიგი და \u2028გახადე ავტომატური"
+      },
+      "receivables": {
+        "title": "სტატისტიკა",
+        "description": "თვალი ადევნე შენს შემოსავლებსა \u2028და ფულის მოძრაობას მარტივი რეპორტების მეშვეობით"
+      }
+    }
+  },
+  "footer": {
+    "kernel": "კერნელი",
+    "tools": "ხელსაწყოები",
+    "templates": "შაბლონები",
+    "blog": "ბლოგი",
+    "our_story": "ჩვენი ამბავი",
+    "pricing": "პაკეტები",
+    "payroll": "ხელფასების სისტემა",
+    "invoice_software": "ინვოისირების სისტემა",
+    "generator": "ინვოისების გენერატორი",
+    "financial_calculators": "ფინანსური კალკულატორები",
+    "tax_calculators": "საგადასახადო კალკულატორები",
+    "official_invoice_templates": "ინვოისის შაბლონები",
+    "free_inv_templates": "ინვოისის შაბლონები",
+    "acknowledgement_receipt_templates": "მიღება-ჩაბარების აქტის შაბლონები",
+    "delivery_acceptance": "მიღება-ჩაბარების აქტის შაბლონები",
+    "contact_us": "კონტაქტი",
+    "location": "თბილისი საქართველო",
+    "terms_and_conditions": "მოხმარების წესები",
+    "privacy_policy": "კონფიდენციალურობა "
+  },
+  "our_story": {
+    "title": "Kernel Story",
+    "revup": "Lead Investor",
+    "description": "იყო და არა იყო რა…<br><br>იყო ფინანსების მენეჯმენტის პრობლემები, ჩახლართული და მოძველებული სისტემები, აუტანელი კალკულაციები  და არ იყო კერნელი, რომელიც შენს მცირე ბიზნესს ამ ყველაფერს ჩამოაცილებდა.<br><br> სწორედ ამიტომ…<br><br>2019 წელს კერნელი შექმნა ძალიან პატარა გუნდმა დიდი იდეით: მცირე მეწარმეების ცხოვრების გამარტივება მოქნილი ფინანსური ხელსაწყოების დახმარებით.  მზად რამდენიმე მნიშვნელოვანი გრანტის მოპოვება შევძელით, ამ იდეას დავამატეთ დიდი შრომა და ენთუზიაზმი, რამაც დღეს უკვე მოქნილ, გამართულ პლატფორმამდე და საერთაშორისო ბაზრებზე გასვლამდეც კი მიგვიყვანა.<br><br>თანამედროვე სამყაროში მცირე მეწარმეები ბუღალტერიაზე და დოკუმენტაციის შედგენაზე დიდ დროს არ უნდა ხარჯავდნენ, რადგან უმჯობესია, ეს დრო და ძალისხმევა განვითარების გეგმას და მის განხორციელებას მოხმარდეს. ჩვენ კარგად გვესმის, რომ რომ ყველა, ვისაც ბუღალტერია სჭირდება ბუღალტერი არ არის, შესაბამისად, ჩვენი ხელსაწყოების გამოყენება არ საჭიროებს ფინანსურ განათლებას. <br><br>გარდა იმ ინოვაციური  პლატფორმისა, რომელიც შევქმენით, ჩვენთვის არანაკლებ დიდ ღირებულებას წარმოადგენს კერნელის პატარა, თუმცა, განსაკუთრებული გუნდი. კერნელი ყველა გუნდის წევრს ხელს უწყობს განვითარდეს თავიანთი ინტერესების შესაბამისად. ამ გზით ჩვენ უზრუნველვყოფთ როგორც სტარტაპის ასევე ინდივიდების პიროვნულ წინსვლას. ",
+    "digital_area": "Early Investor",
+    "bog": "Strategic Partner",
+    "nexia": "Strategic Partner",
+    "500": "Startup Accelerator",
+    "gita": "Grant Provider"
+  },
+  "carousel": {
+    "title": "რატომ გვირჩევენ მომხმარებლები ?",
+    "description1_georgia": "ძალიან მომწონს მომხმარებლების მიმართ ინტერესს რომ იჩენთ და რეკომენდაციებსა და შენიშვნებს არ ერიდებით",
+    "description2_georgia": "ნდობის მომენტია, რომ შევედი საიტზე მივხვდი მარტივად შევქმნიდი პროფესიოანალურ ინვოისს. უშუალაოდ შექმნის შემდეგ კიდევ უფრო დავრწმუნდი ამაში" ,
+    "description3_georgia": "ძალიან მოქნილი და მარტივი ხელსაწყოა. ინვოისების ერთ ადგილას მართვის საშუალებას გვაძლევს, რაც ძალიან გვიმარტივებს საქმეს",
+    "description4_georgia": "აი, შემოსავლებისა და ფულის მოძრაობის კონტროლის საშუალებას რომ მაძლევს, ეგ ყველაზე დიდი პლიუსია. ინვოისების მარტივად გამოწერა კი ძალიან მაგარი ბონუსი. ჰო, კიდევ, თქვენი ბლოგის აქტიური მკითხველი ვარ და ძალიან მინდა, რომ არ შეწყვიტოთ მსგავსი სტატიების გამოქვეყნება. ძალიან ბევრ რამეს ვსწავლობ თქვენი მეშვეობით",
+
+    "description1": "The app is super nice when you’re on the go and having to send official invoices to customers right then. The only thing that was bothering me was not being able to see my revenues per customer but I contacted their team and they actually added it after my recommendation! That was super cool really. ",
+    "description2": "I can't imagine I was spending so much time on actually issuing invoicing by hand when I could have automated most of it here! This is a must for every e-commerce business owner really" ,
+    "description3": "Seriously? Why isn't this more popular?! It literally look me one minute to actually create and download the PDF of my official BIR invoice. And the software saved both information about my business and the customer. SO it's all prefilled now! ",
+    "description4": "It's the simplicity that kept me coming back. I just love how minimalistic and intuitive their functionality is. Plus their adding new stuff all the time so I'm excited to see where this is going",
+    "position1": "Owner at TT's Online Boutique",
+    "position2": "Founder of 101% Naturals Online Shop",
+    "position3": "CEO of Fiesta Foods Online",
+    "position4": "Owner of Milo Decorations",
+    "position1_georgia": "თაფლუჭას დამფუძნებელი",
+    "position2_georgia": "ტურიზმის მენეჯერი",
+    "position3_georgia": "ანტრეპრენერი",
+    "position4_georgia": "ანტრეპრენერი",
+    "customer1": "Veronica Beguas",
+    "customer2": "Glennmar Riosa",
+    "customer3": "Billy Balsamo",
+    "customer4": "Melissa Maristela",
+    "customer1_georgia": "ბექა ქემერტელიძე",
+    "customer2_georgia": "გიორგი მხეიძე",
+    "customer3_georgia": "მიშა გეგეჭკორი",
+    "customer4_georgia": "მერაბ ხარატიშვილი"
+  },
+  "article": {
+    "title": "ბიზნესზე ხომ არ გვესაუბრა?",
+    "search": "ძიება",
+    "read_more": "მეტის ნახვა"
+  },
+  "meta": {
+    "Default": {
+      "title": "კერნელი",
+      "ogs": {
+        "title": "კერნელი: ინვოისირების სისტემა და ფინანსური ხელსაწყოები",
+        "desc": "კერნელის მეშვეობით შეგიძლია ინვოისები მარტივად შექმნა, ატვირთო RS.GE-ზე, გაუგზავნო კლიენტს ან გადმოწერო ერთი კლიკით. აკონტროლე დავალიანებები და თვალი ადევნე შემოსავალს"
+      }
+    },
+    "Georgia": {
+      "title": "კერნელი",
+      "ogs": {
+        "title": "კერნელი: ინვოისირების სისტემა და ფინანსური ხელსაწყოები",
+        "desc": "კერნელის მეშვეობით შეგიძლია ინვოისები მარტივად შექმნა, ატვირთო RS.GE-ზე, გაუგზავნო კლიენტს ან გადმოწერო ერთი კლიკით. აკონტროლე დავალიანებები და თვალი ადევნე შემოსავალს"
+      }
+    },
+    "India": {
+      "title": "კერნელი",
+      "ogs": {
+        "title": "კერნელი: ინვოისირების სისტემა და ფინანსური ხელსაწყოები",
+        "desc": "კერნელის მეშვეობით შეგიძლია ინვოისები მარტივად შექმნა, ატვირთო RS.GE-ზე, გაუგზავნო კლიენტს ან გადმოწერო ერთი კლიკით. აკონტროლე დავალიანებები და თვალი ადევნე შემოსავალს"
+      }
+    },
+    "Philippines": {
+      "title": "კერნელი",
+      "ogs": {
+        "title": "კერნელი: ინვოისირების სისტემა და ფინანსური ხელსაწყოები",
+        "desc": "კერნელის მეშვეობით შეგიძლია ინვოისები მარტივად შექმნა, ატვირთო RS.GE-ზე, გაუგზავნო კლიენტს ან გადმოწერო ერთი კლიკით. აკონტროლე დავალიანებები და თვალი ადევნე შემოსავალს"
+      }
+    }
+  }
+}

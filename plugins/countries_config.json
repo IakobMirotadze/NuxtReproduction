@@ -1,0 +1,563 @@
+{
+  "Georgia": {
+    "blog_url_ka": "https://blog.kerneltools.com/ka/blog-ka/",
+    "blog_url_en": "https://blog.kerneltools.com/blog/",
+    "terms_and_conditions_en": "https://blog.kerneltools.com/terms-and-conditions/",
+    "privacy_policy_en": "https://blog.kerneltools.com/privacy-policy/",
+    "terms_and_conditions_ka": "https://blog.kerneltools.com/ka/terms-and-conditions-ka/",
+    "privacy_policy_ka": "https://blog.kerneltools.com/ka/privacy-policy-ka/",
+    "facebook": "https://www.facebook.com/kerneItools",
+    "linkedIn": "https://www.linkedin.com/company/30664423/",
+    "instagram": "https://www.instagram.com/kerneltoolsph/",
+    "twitter": "https://twitter.com/KernelToolsPH",
+    "landingInfos": [
+      {
+        "name": "simple_invoicing",
+        "slot": "input"
+      },
+      {
+        "name": "create_new",
+        "slot": "link_button",
+        "slot_text": "create_invoice",
+        "slot_href": "https://kernel.tools/user/invoices/create"
+      },
+      {
+        "name": "payroll",
+        "reverse": true,
+        "slot": "link_button",
+        "slot_text": "get_more",
+        "slot_href": "https://kernel.tools/user/payrolls"
+      },
+      {
+        "name": "calculators",
+        "slot": "link_button",
+        "slot_text": "get_more",
+        "slot_href": "https://kernel.tools/calculators"
+      }
+    ],
+    "footer": {
+      "navigations": {
+        "kernel": [
+          {
+            "name": "our_story",
+            "to": "/our-story"
+          },
+          {
+            "name": "blog",
+            "to": "/articles"
+          },
+          {
+            "name": "pricing",
+            "to": "https://kernel.tools/payment-plans",
+            "redirect": true
+          }
+        ],
+        "tools": [
+          {
+            "name": "invoice_software",
+            "to": "https://kernel.tools",
+            "redirect": true
+          },
+          {
+            "name": "generator",
+            "to": "https://kernel.tools/invoice-generator",
+            "redirect": true
+          },
+          {
+            "name": "payroll",
+            "to": "https://kernel.tools/user/payrolls",
+            "redirect": true
+          },
+          {
+            "name": "financial_calculators",
+            "to": "https://kernel.tools/calculators",
+            "redirect": true
+          },
+          {
+            "name": "tax_calculators",
+            "to": "https://kernel.tools/calculators",
+            "redirect": true
+          }
+        ],
+        "templates": [
+        {
+          "name": "free_inv_templates",
+          "to": "/templates/free_inv_templates"
+        },
+        {
+          "name": "delivery_acceptance",
+          "to": "/templates/delivery_acceptance"
+        }
+      ]
+      },
+      "tel": "+995 598 337 485"
+    },
+    "navigations": [
+      {
+        "name": "home",
+        "to": "/"
+      },
+      {
+        "name": "invoicing",
+        "to": "https://kernel.tools",
+        "redirect": true
+      },
+      {
+        "name": "tools",
+        "dropDown": true,
+        "additions": [
+          {
+            "name": "payroll",
+            "to": "https://kernel.tools/user/payrolls",
+            "redirect": true
+          },
+          {
+            "name": "inv_generator",
+            "to": "https://kernel.tools/invoice-generator",
+            "redirect": true
+          },
+          {
+            "name": "free_inv_templates",
+            "to": "/templates/free_inv_templates"
+          },
+          {
+            "name": "delivery_acceptance",
+            "to": "/templates/delivery_acceptance"
+          },
+          {
+            "name": "fin_calculators",
+            "to": "https://kernel.tools/calculators",
+            "redirect": true
+          },
+          {
+            "name": "tax_calculators",
+            "to": "https://kernel.tools/calculators",
+            "redirect": true
+          }
+        ]
+      },
+      {
+        "name": "pricing",
+        "to": "https://kernel.tools/payment-plans",
+        "redirect": true
+      },
+      {
+        "name": "blog",
+        "to": "/articles"
+      },
+      {
+        "name": "our_story",
+        "to": "/our-story"
+      }
+    ]
+  },
+  "Philippines": {
+    "blog_url_en": "https://blog.kerneltools.com/blog/",
+    "terms_and_conditions_en": "https://blog.kerneltools.com/terms-and-conditions/",
+    "privacy_policy_en": "https://blog.kerneltools.com/privacy-policy/",
+    "facebook": "https://www.facebook.com/kerneltoolsph",
+    "linkedIn": "https://www.linkedin.com/company/30664423/",
+    "instagram": "https://www.instagram.com/kerneltoolsph/",
+    "twitter": "https://twitter.com/KernelToolsPH",
+    "app_download": true,
+    "landingInfos": [
+      {
+        "name": "simple_invoicing",
+        "slot": "input"
+      },
+      {
+        "name": "create_new",
+        "slot": "link_button",
+        "slot_text": "create_invoice",
+        "slot_href": "https://kernel.tools/user/invoices/create"
+      },
+      {
+        "name": "or_generator",
+        "slot": "link_button",
+        "reverse": true,
+        "slot_text": "use_receipt",
+      "slot_href": "https://kernel.tools/official-receipt-generator?lang=en"
+      },
+      {
+        "name": "templates",
+        "slot": "link_button",
+        "slot_text": "download_templates",
+        "slot_href": "/templates/inv_templates"
+      }
+    ],
+    "footer": {
+      "navigations": {
+        "kernel": [
+          {
+            "name": "our_story",
+            "to": "/our-story"
+          },
+          {
+            "name": "blog",
+            "to": "/articles"
+          },
+          {
+            "name": "pricing",
+            "to": "https://kernel.tools/payment-plans",
+            "redirect": true
+          }
+        ],
+        "tools": [
+          {
+            "name": "invoice_software",
+            "to": "https://kernel.tools",
+            "redirect": true
+          },
+          {
+            "name": "generator",
+            "to": "https://kernel.tools/invoice-generator",
+            "redirect": true
+          },
+          {
+            "name": "financial_calculators",
+            "to": "https://kernel.tools/calculators",
+            "redirect": true
+          },
+          {
+            "name": "tax_calculators",
+            "to": "https://kernel.tools/calculators",
+            "redirect": true
+          }
+        ],
+        "templates": [
+          {
+            "name": "official_invoice_templates",
+            "to": "/templates/official_invoice_templates"
+          },
+          {
+            "name": "official_receipt_templates",
+            "to": "/templates/official_receipt_templates"
+          },
+          {
+            "name": "acknowledgement_receipt_templates",
+            "to": "/templates/acknowledgement_templates"
+          }
+        ]
+      },
+      "telTitle": "(+63) 9630124679",
+      "tel": "639630124679",
+      "whatsApp": true
+    },
+
+    "navigations": [
+      {
+        "name": "home",
+        "to": "/"
+      },
+      {
+        "name": "invoicing",
+        "to": "https://kernel.tools",
+        "redirect": true
+      },
+      {
+        "name": "tools",
+        "dropDown": true,
+        "additions": [
+          {
+            "name": "or_generator",
+            "to": "https://kernel.tools/official-receipt-generator",
+            "redirect": true
+          },
+          {
+            "name": "inv_templates",
+            "to": "/templates/inv_templates"
+          },
+          {
+            "name": "or_templates",
+            "to": "/templates/or_templates"
+          },
+          {
+            "name": "acknowledgement_templates",
+            "to": "/templates/acknowledgement_templates"
+          },
+          {
+            "name": "fin_calculators",
+            "to": "https://kernel.tools/calculators",
+            "redirect": true
+          }
+        ]
+      },
+      {
+        "name": "pricing",
+        "to": "https://kernel.tools/payment-plans",
+        "redirect": true
+      },
+      {
+        "name": "blog",
+        "to": "/articles"
+      },
+      {
+        "name": "our_story",
+        "to": "/our-story"
+      }
+    ]
+  },
+  "India": {
+    "showFlag": true,
+    "book_demo": true,
+    "showSecure": true,
+    "blog_url_en": "https://blog.kerneltools.com/blog/",
+    "terms_and_conditions_en": "https://blog.kerneltools.com/terms-and-conditions/",
+    "privacy_policy_en": "https://blog.kerneltools.com/privacy-policy/",
+    "facebook": "https://www.facebook.com/Kernel-Tools-India-106413841888390",
+    "linkedIn": "https://www.linkedin.com/company/30664423/",
+    "instagram": "https://www.instagram.com/kerneltoolsph/",
+    "twitter": "https://twitter.com/KernelToolsPH",
+    "landingInfos": [
+      {
+        "name": "simple_invoicing_india",
+        "slot": "input"
+      },
+      {
+        "name": "create_new_india",
+        "slot": "link_button",
+        "slot_text": "create_invoice",
+        "slot_href": "https://kernel.tools/sign-up?lang=en"
+      },
+      {
+        "name": "inv_generator_india",
+        "slot": "link_button",
+        "reverse": true,
+        "slot_text": "use_receipt",
+        "slot_href": "https://kernel.tools/sign-up?lang=en"
+      },
+      {
+        "name": "templates_india",
+        "slot": "link_button",
+        "slot_text": "download_templates",
+        "slot_href": "/templates/inv_templates"
+      }
+    ],
+    "footer": {
+      "navigations": {
+        "kernel": [
+          {
+            "name": "our_story",
+            "to": "/our-story"
+          },
+          {
+            "name": "blog",
+            "to": "/articles"
+          },
+          {
+            "name": "pricing",
+            "to": "https://kernel.tools/payment-plans",
+            "redirect": true
+          }
+        ],
+        "tools": [
+          {
+            "name": "gst_invoice_software",
+            "to": "https://kernel.tools",
+            "redirect": true
+          },
+          {
+            "name": "generator",
+            "to": "https://kernel.tools/sign-up?lang=en",
+            "redirect": true
+          },
+          {
+            "name": "financial_calculators",
+            "to": "https://kernel.tools/calculators",
+            "redirect": true
+          }
+        ],
+        "templates": [
+          {
+            "name": "gst_inv_templates",
+            "to": "/templates/inv_templates"
+          }
+        ]
+      },
+      "telTitle": "(+91) 7303559441",
+      "tel": "917303559441",
+      "whatsApp": true
+    },
+
+    "navigations": [
+      {
+        "name": "home",
+        "to": "/"
+      },
+      {
+        "name": "invoicing",
+        "to": "https://kernel.tools",
+        "redirect": true
+      },
+      {
+        "name": "tools",
+        "dropDown": true,
+        "additions": [
+          {
+            "name": "gst_generator",
+            "to": "https://kernel.tools/sign-up?lang=en",
+            "redirect": true
+          },
+          {
+            "name": "gst_inv_templates",
+            "to": "/templates/inv_templates"
+          },
+          {
+            "name": "fin_calculators",
+            "to": "https://kernel.tools/calculators",
+            "redirect": true
+          }
+        ]
+      },
+      {
+        "name": "pricing",
+        "to": "https://kernel.tools/payment-plans",
+        "redirect": true
+      },
+      {
+        "name": "blog",
+        "to": "/articles"
+      },
+      {
+        "name": "our_story",
+        "to": "/our-story"
+      }
+    ]
+  },
+  "Default": {
+    "blog_url_en": "https://blog.kerneltools.com/blog/",
+    "terms_and_conditions_en": "https://blog.kerneltools.com/terms-and-conditions/",
+    "privacy_policy_en": "https://blog.kerneltools.com/privacy-policy/",
+    "facebook": "https://www.facebook.com/kerneltoolsph",
+    "linkedIn": "https://www.linkedin.com/company/30664423/",
+    "instagram": "https://www.instagram.com/kerneltoolsph/",
+    "twitter": "https://twitter.com/KernelToolsPH",
+    "landingInfos": [
+      {
+        "name": "simple_invoicing",
+        "slot": "input"
+      },
+      {
+        "name": "create_new",
+        "slot": "link_button",
+        "slot_text": "create_invoice",
+        "slot_href": "https://kernel.tools/user/invoices/create"
+      },
+      {
+        "name": "inv_generator",
+        "slot": "link_button",
+        "reverse": true,
+        "slot_text": "use_receipt",
+        "slot_href": "https://kernel.tools/invoice-generator"
+      },
+      {
+        "name": "templates",
+        "slot": "link_button",
+        "slot_text": "download_templates",
+        "slot_href": "/templates/inv_templates"
+      }
+    ],
+    "footer": {
+
+      "navigations": {
+        "kernel": [
+          {
+            "name": "our_story",
+            "to": "/our-story"
+          },
+          {
+            "name": "blog",
+            "to": "/articles"
+          },
+          {
+            "name": "pricing",
+            "to": "https://kernel.tools/payment-plans",
+            "redirect": true
+          }
+        ],
+        "tools": [
+          {
+            "name": "invoice_software",
+            "to": "https://kernel.tools",
+            "redirect": true
+          },
+          {
+            "name": "generator",
+            "to": "https://kernel.tools/invoice-generator",
+            "redirect": true
+          },
+          {
+            "name": "financial_calculators",
+            "to": "https://kernel.tools/calculators",
+            "redirect": true
+          },
+          {
+            "name": "tax_calculators",
+            "to": "https://kernel.tools/calculators",
+            "redirect": true
+          }
+        ],
+        "templates": [
+          {
+            "name": "free_inv_templates",
+            "to": "/templates/free_inv_templates"
+          },
+          {
+            "name": "delivery_acceptance",
+            "to": "/templates/delivery_acceptance"
+          }
+        ]
+      },
+      "telTitle": "(+63) 9630124679",
+      "tel": "+63 9630124679"
+    },
+    "navigations": [
+      {
+        "name": "home",
+        "to": "/"
+      },
+      {
+        "name": "invoicing",
+        "to": "https://kernel.tools",
+        "redirect": true
+      },
+      {
+        "name": "tools",
+        "dropDown": true,
+        "additions": [
+          {
+            "name": "inv_generator",
+            "to": "https://kernel.tools/invoice-generator",
+            "redirect": true
+          },
+          {
+            "name": "fin_calculators",
+            "to": "https://kernel.tools/calculators",
+            "redirect": true
+          },
+          {
+            "name": "free_inv_templates",
+            "to": "/templates/free_inv_templates"
+          },
+          {
+            "name": "delivery_acceptance",
+            "to": "/templates/delivery_acceptance"
+          }
+        ]
+      },
+      {
+        "name": "pricing",
+        "to": "https://kernel.tools/payment-plans",
+        "redirect": true
+      },
+      {
+        "name": "blog",
+        "to": "/articles"
+      },
+      {
+        "name": "our_story",
+        "to": "/our-story"
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "": "",
+  "navigation": {
+    "home": "Home",
+    "invoicing": "Invoicing",
+    "tools": "Tools",
+    "book_a_demo": "Book A Demo",
+    "pricing": "Pricing",
+    "blog": "Blog",
+    "our_story": "Our Story",
+    "log_in": "Log in",
+    "sign_up": "Sign up",
+    "payroll": "Payroll Management",
+    "inv_generator": "Online Invoice Generator",
+    "gst_generator": "GST Invoice Generator",
+    "or_generator": "Official Receipt Generator",
+    "inv_templates": "Official Invoice Templates",
+    "gst_inv_templates": "GST Invoice Templates",
+    "free_inv_templates": "Free Invoice Templates",
+    "delivery_acceptance": "Free Delivery-Acceptance Templates",
+    "or_templates": "Official Receipt Templates",
+    "acknowledgement_templates": "Acknowledgement Receipt Templates",
+    "fin_calculators": "Financial Calculators",
+    "tax_calculators": "Tax Calculators"
+  },
+  "landing": {
+    "create_free_account": "Create Free Account",
+    "sign_facebook": "Sign In With Facebook",
+    "sign_google": "Sign In With Google",
+    "email": "Email",
+    "register_input_title": "Get Started for Free Today",
+    "infos": {
+      "simple_invoicing": {
+        "_": "",
+        "Georgia_first": "Simple",
+        "Georgia_second": "Invoicing",
+        "Georgia_third": "And Financial Tools",
+        "Georgia_secondary": "Issue invoices in a minute and simplify your financial management with our financial tools",
+        "Philippines_first": "Create Official Invoices for",
+        "Philippines_second": "Free",
+        "Philippines_third": "",
+        "Philippines_secondary": "Issue official sales invoices in seconds and download them with just one click from your phone or laptop",
+        "Default_first": "Simplify and Automate ",
+        "Default_second": "Invoicing",
+        "Default_third": "",
+        "Default_secondary": "Kernel is the simplest way to create and automate your invoices. It’s the only invoicing tool you will ever need"
+      },
+      "simple_invoicing_india": {
+        "_": "",
+        "India_first": "India’s Simplest",
+        "India_second": "<br>GST E-invoicing",
+        "India_third": "",
+        "India_secondary": "Issue GST sales invoices in seconds and download them with just one click from your phone or laptop"
+      },
+      "create_new": {
+        "main": "All-in-One Invoicing Software",
+        "secondary": "Everything you will ever need for online invoicing. Manage clients, automate invoices and view reports",
+        "slot_text": "Create an invoice"
+      },
+      "create_new_india": {
+        "main": "GST E-Invoicing Software",
+        "secondary": "Everything you will ever need for GST <br> e-invoicing. Manage clients, automate invoices and view reports",
+        "slot_text": "Create a GST invoice"
+      },
+      "or_generator": {
+        "main": "Online Official Receipt Generator",
+        "secondary": "Create and download official receipts in seconds with our free online official receipt generator",
+        "slot_text": "Use receipt generator"
+      },
+      "inv_generator": {
+        "main": "Online invoice Generator",
+        "secondary": "Create and download professional invoices in seconds with our free online Invoice generator",
+        "slot_text": "Use Invoice generator"
+      },
+      "inv_generator_india": {
+        "main": "Online GST Invoice Generator",
+        "secondary": "Create and download GST invoices in seconds with our free online GST invoice generator",
+        "slot_text": "Use Invoice generator"
+      },
+      "templates": {
+        "main": "Free Invoice and Receipt Templates",
+        "secondary": "Use our free downloadable and printable official invoice and receipt templates. Choose from Word, Excel and other formats!",
+        "slot_text": "Download free templates"
+      },
+      "templates_india": {
+        "main": "Free GST Invoice Templates",
+        "secondary": "Try variety of GST invoice templates. You can also download and print them in seconds. Choose from Word, Excel and other formats",
+        "slot_text": "Download free templates"
+      },
+      "payroll": {
+        "main": "Payroll Management",
+        "secondary": "Manage your employee’s payroll and automate tax calculations in one space. You can upload the data from your RS.GE account",
+        "slot_text": "Learn More"
+      },
+      "calculators": {
+        "main": "Tax Calculators",
+        "secondary": "Calculate personal income tax, VAT and profit tax within seconds with free simple tax calculators",
+        "slot_text": "Calculate Taxes"
+      }
+    },
+    "global_info_Philippines": "Designed for Entrepreneurs in the Philippines",
+    "global_description_first_Philippines": "Our",
+    "global_description_second_Philippines": "BIR-compliant",
+    "global_description_third_Philippines": "software automates official invoicing of small business owners in the Philippines",
+    "global_info_India": "Automate Your Invoicing With Our GST-Compliant Software",
+    "global_description_first_India": "Designed For Small Business Owners And Freelance Accountants in India",
+    "global_description_second_India": "",
+    "global_description_third_India": "","global_info_Georgia": "Building a new way to manage finance",
+    "global_description_first_Georgia": "Kernel’s simple financial tools are designed to simplify the life of small business owners and accountants ",
+    "global_description_second_Georgia": "",
+    "global_description_third_Georgia": "",
+    "global_info_Default": "Designed With Small Business Owners And Entrepreneurs In Mind",
+    "global_description_first_Default": "Our software automates invoicing of small business owners in developing countries",
+    "global_description_second_Default": "",
+    "global_description_third_Default": "",
+    "benefits": {
+      "invoice": {
+        "title": "Make Invoicing Easy",
+        "description": "It just takes one minute! Create official invoices quickly in a simple and intuitive interface"
+      },
+      "automate":{
+        "title": "Automate Your Invoices",
+        "description": "Don’t do it manually! Automate the creation and  sending of your recurring invoices"
+      },
+      "receivables": {
+        "title": "Control Your Receivables",
+        "description": "Keep an eye on your cash! Track your receivables with our  simple reports and get paid on time"
+      },
+      "invoice_india": {
+        "title": "Save Hours on Invoicing",
+        "description": "Do it simply, quickly and do it right! Easy to use. Takes seconds. Meets all GST requirements"
+      },
+      "automate_india":{
+        "title": "Automate Your Invoices",
+        "description": "Don’t do it manually! Automate the creation and  sending of your recurring invoices"
+      },
+      "receivables_india": {
+        "title": "Get Paid on Time",
+        "description": "Send payment reminders to your clients and make sure you get paid timely"
+      }
+    }
+  },
+  "footer": {
+    "kernel": "Kernel",
+    "tools": "Tools",
+    "templates": "Templates",
+    "blog": "Blog",
+    "our_story": "Our Story",
+    "payroll": "Payroll",
+    "pricing": "Pricing",
+    "invoice_software": "Invoice Software",
+    "gst_invoice_software": "GST Invoice Software",
+    "generator": "Generator",
+    "financial_calculators": "Financial Calculators",
+    "tax_calculators": "Tax Calculators",
+    "official_invoice_templates": "Official Invoice Templates",
+    "gst_inv_templates": "GST Invoice Templates",
+    "official_receipt_templates": "Official Receipt Templates",
+    "acknowledgement_receipt_templates": "Acknowledgement Receipt Templates",
+    "delivery_acceptance": "Free Delivery-Acceptance Templates",
+    "free_inv_templates": "Free Invoice Templates",
+    "contact_us": "Contact Us",
+    "location": "Middletown, Delaware, USA",
+    "terms_and_conditions": "Terms and Conditions",
+    "privacy_policy": "Privacy Policy "
+  },
+  "our_story": {
+    "title": "Kernel Story",
+    "revup": "Lead Investor",
+    "description": "Once upon a time…<br><br>There were financial management problems, tangled and outdated systems, unbearable calculations, and there was no Kernel to get your small business out of it all.<br><br>That's why…<br><br>In 2019, our small team created Kernel with a big vision in mind: make the life of entrepreneurs and small business owners easier with the help of simple financial tools. That’s why we created our country-specific and straightforward invoicing software solution, which quickly spread from local to international markets. <br><br>In the modern world, we believe that small business owners shouldn't spend countless hours on accounting as this time and effort can be spent working on brilliant ideas for growing business. <br><br>Not everyone who needs accounting is an accountant. Therefore, using our tools does not require any financial education. Simply anyone can do it.<br><br>Do you know what's behind all this? It's Kernel's small but extraordinary team. We provide resources and encourage each team member to develop according to their interests as the success of our company stands on the success of hard-working, motivated individuals",
+    "digital_area": "Early Investor",
+    "bog": "Strategic Partner",
+    "nexia": "Strategic Partner",
+    "500": "Startup Accelerator",
+    "gita": "Grant Provider"
+  },
+  "carousel": {
+    "title": "Why Customers Love Us",
+    "description1_georgia": "I really like to see that you show interest in customers and you are never hesitant to receive recommendations and remarks",
+    "description2_georgia": "I visited your website with high expectations the very first time and once I created my first invoice I knew you were to be trusted" ,
+    "description3_georgia": "It is a very flexible and simple tool. It allows us to manage invoices in one place, which makes our job much easie",
+    "description4_georgia": "Kernel allows me to easily control my cash flow. I can create invoices in seconds, which is a great benefit. Also, I read your blog quite frequently and I love it! Please keep on creating the quality content I am learning a lot from you",
+
+    "description1": "The app is super nice when you’re on the go and having to send official invoices to customers right then. The only thing that was bothering me was not being able to see my revenues per customer but I contacted their team and they actually added it after my recommendation! That was super cool really. ",
+    "description2": "I can't imagine I was spending so much time on actually issuing invoicing by hand when I could have automated most of it here! This is a must for every e-commerce business owner really" ,
+    "description3": "Seriously? Why isn't this more popular?! It literally look me one minute to actually create and download the PDF of my official BIR invoice. And the software saved both information about my business and the customer. SO it's all prefilled now! ",
+    "description4": "It's the simplicity that kept me coming back. I just love how minimalistic and intuitive their functionality is. Plus their adding new stuff all the time so I'm excited to see where this is going",
+    "position1": "Owner at TT's Online Boutique",
+    "position2": "Founder of 101% Naturals Online Shop",
+    "position3": "CEO of Fiesta Foods Online",
+    "position4": "Owner of Milo Decorations",
+    "position1_georgia": "Founder of Taplucha",
+    "position2_georgia": "Travel Agent",
+    "position3_georgia": "Entrepreneur",
+    "position4_georgia": "Entrepreneur",
+    "customer1": "Veronica Beguas",
+    "customer2": "Glennmar Riosa",
+    "customer3": "Billy Balsamo",
+    "customer4": "Melissa Maristela",
+    "customer1_georgia": "Beka Khemertelidze",
+    "customer2_georgia": "Giorgi Mkheidze",
+    "customer3_georgia": "Misha Gegetckhori",
+    "customer4_georgia": "Merab Kharatishvili"
+  },
+  "article": {
+    "title": "Lets talk business",
+    "search": "Search",
+    "read_more": "Read More"
+  },
+  "meta": {
+    "Default": {
+      "title": "Kernel Tools",
+      "ogs": {
+        "title": "Kernel: Simplify and Automate Invoicing",
+        "desc": "Kernel is the only invoicing tool you will ever need. Everything professional for online invoicing: manage clients, automate invoices, and keep track of your numbers"
+      }
+    },
+    "Georgia": {
+      "title": "Kernel Tools",
+      "ogs": {
+        "title": "Kernel: Simple Invoicing and Financial Tools",
+        "desc": "Kernel allows you to create invoices, upload them to RS.GE, send directly to the customer or download with one click. Keep track of your receivables and revenues with our analytics"
+      }
+    },
+    "India": {
+      "title": "Kernel Tools",
+      "ogs": {
+        "title": "India’s Simplest GST E-invoicing for SMBs",
+        "desc": "Kernel GST e-invoicing software allows you to simplify and automate GST invoicing & reporting on any device. Manage all your clients, products, and documents in one place"
+      }
+    },
+    "Philippines": {
+      "title": "Kernel Tools",
+      "ogs": {
+        "title": "BIR-Compliant Sales Invoicing Software",
+        "desc": "Kernel BIR sales invoicing software allows you to create sales documents in seconds and send or download them with just one click from your phone or laptop"
+      }
+    }
+  }
+}

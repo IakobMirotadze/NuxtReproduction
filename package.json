@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "start": "node .output/server/index.mjs"
+  },
+  "devDependencies": {
+    "@intlify/nuxt3": "^0.1.10",
+    "@intlify/vite-plugin-vue-i18n": "^3.4.0",
+    "@intlify/vue-i18n-loader": "^4.2.0",
+    "eslint": "^8.13.0",
+    "nuxt": "npm:nuxt3@latest",
+    "sass": "^1.49.10",
+    "sass-loader": "10"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "i18n": "^0.14.2",
+    "vue-i18n": "^8.27.1"
+  }
+}
